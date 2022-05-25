@@ -1,2 +1,2 @@
-# Desafio-github-DIO
-Desafio de Projeto sobre Git/Github
+# Bootcamp Carrefour Dio
+repositório com anotações e exercícios relacionados ao bootcamp Carrefour
